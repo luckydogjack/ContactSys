@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Apr 09 14:00:20 CST 2018
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=contactS.jar
+manifest.mergeall=true
+manifest.mainclass=gz.itcast.contact.MainProgram
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
